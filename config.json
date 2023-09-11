@@ -1,0 +1,17 @@
+{
+    "word_wrap": true,
+    "is_dark_mode": 1,
+    "use_spaces_for_tab": 1,
+    "sticky_indentation": 1,
+    "tab_spaces": 4,
+    "dark_fg": "#40CC40",
+    "dark_bg": "#2E2E2E",
+    "dark_ln_fg": "#EDEDED",
+    "dark_cursor": "#FFFFFF",
+    "light_fg": "#000000",
+    "light_bg": "#FFFFFF",
+    "light_ln_fg": "#7C98B4",
+    "light_cursor": "#000000",
+    "font_size": 14,
+    "font_family": "Cascadia Code"
+}
