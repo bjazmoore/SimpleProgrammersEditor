@@ -3,11 +3,20 @@ A very simple editor for programming, written in Python 3 using tkinter.  Featur
 
 This editor has no dependencies that are not part of Python 3.x.  
 
+Light Mode:
 ![screen shot](screenshot1.png)
 
-![screen shot]([http://url/to/img.png](https://github.com/bjazmoore/SimpleProgrammersEditor/blob/main/screenshot1.png)https://github.com/bjazmoore/SimpleProgrammersEditor/blob/main/screenshot2.png)
 
-![screen shot]([http://url/to/img.png](https://github.com/bjazmoore/SimpleProgrammersEditor/blob/main/screenshot1.png)https://github.com/bjazmoore/SimpleProgrammersEditor/blob/main/screenshot3.png)
+![screen shot](screenshot2.png)
 
-![screen shot]([http://url/to/img.png](https://github.com/bjazmoore/SimpleProgrammersEditor/blob/main/screenshot1.png)https://github.com/bjazmoore/SimpleProgrammersEditor/blob/main/screenshot4.png)
 
+
+![screen shot](screenshot3.png)
+
+
+Display Indentation Enabled (in Dark Mode):
+![screen shot](screenshot4.png)
+
+
+Find and Replace (in Dark Mode):
+![screen shot](screenshot5.png)
